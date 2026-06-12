@@ -1,5 +1,5 @@
 //let parrafo = document.querySelector("p")
-//parrafo.innerHTML = "Indica un número de 1 a 20"
+//parrafo.innerHTML = "Indica un número de 1 a 30"
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
